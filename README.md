@@ -8,7 +8,7 @@
 - 🔭 I’m currently working on **Laravel-based Web Applications**
 - 🌱 I’m currently learning **Laravel Advanced Concepts, REST APIs, and Inertia.js**
 - 💬 Ask me about **PHP, Laravel, MySQL, REST APIs, Authentication**
-- 📫 How to reach me: **your.email@example.com**
+- 📫 How to reach me: tanvirazamjishan165170@gmail.com
 
 
 ---
